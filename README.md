@@ -3,7 +3,7 @@
 ## Aluno: Ellihas Dhavis Araújo de Freitas
 
 ### Projeto 1: Planilha Financeira
-*Durante esse projeto pude aprender bastante com o professor Filipe, ele ensinou como utilizar principalmente as funcionalidades padrões do excel de modo que eu pude entender o funcionamento da ferramenta por completo, campos como menus, menus contextuais e outras funcionalidades inerentes a eles.
+ - Durante esse projeto pude aprender bastante com o professor Filipe, ele ensinou como utilizar principalmente as funcionalidades padrões do excel de modo que eu pude entender o funcionamento da ferramenta por completo, campos como menus, menus contextuais e outras funcionalidades inerentes a eles.
 
 Outro ponto que apreciei durante o curso foi o fato de ele mostrar todas as boas práticas lidando com dados, isso acrescentou bastante para mim, técnicas que eu não conhecia como apresentar os dados em ordem de resposta para uma pergunta de negócio. 
 
